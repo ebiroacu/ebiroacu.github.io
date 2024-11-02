@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebiroacu.github.io/DbX/sitemap_index.txt
+Sitemap: https://ebiroacu.github.io/GsB/sitemap_index.txt
+Sitemap: https://ebiroacu.github.io/VKq/sitemap_index.txt
+Sitemap: https://ebiroacu.github.io/cwb/sitemap_index.txt
